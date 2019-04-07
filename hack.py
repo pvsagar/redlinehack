@@ -57,7 +57,7 @@ def tokenize(text):
     return token_count
 
 # Q2
-
+# similarity score function
 def find_similar_doc(doc_id, docs):
     
 #     print(doc_id)
